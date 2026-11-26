@@ -1,0 +1,42 @@
+[
+  {
+    "query": "Which Tohoku Buddhist temple has a gold-leaf hall and Heian Buddhist treasures?",
+    "expected": "Chūson-ji Temple"
+  },
+  {
+    "query": "松島で伊達政宗ゆかりの禅寺と国宝の本堂を見たい",
+    "expected": "Zuiganji Temple"
+  },
+  {
+    "query": "青森駅近くでねぶた祭の大型山車や跳人の展示を見られる博物館は？",
+    "expected": "Nebuta Museum WA RASSE"
+  },
+  {
+    "query": "Where can I see Kanazawa's Kotoji lantern, ponds, and a historic strolling garden?",
+    "expected": "Kenrokuen Garden"
+  },
+  {
+    "query": "Which Osaka museum exhibits Toyotomi-era castle history and artifacts in the main tower?",
+    "expected": "Osaka Castle Museum"
+  },
+  {
+    "query": "広島で原爆死没者の名前や被爆体験記を学べる無料の平和施設は？",
+    "expected": "Hiroshima National Peace Memorial Hall"
+  },
+  {
+    "query": "Which Miyajima World Heritage shrine has a great torii by the sea and a ferry from Miyajimaguchi?",
+    "expected": "Itsukushima Shrine"
+  },
+  {
+    "query": "Where near Ueno can I explore Japanese archaeology, Asian art, and Horyuji treasures?",
+    "expected": "Tokyo National Museum"
+  },
+  {
+    "query": "奈良の仏像や仏教美術を展示する国立博物館はどこ？",
+    "expected": "Nara National Museum"
+  },
+  {
+    "query": "Which Kyoto shrine has thousands of vermilion torii gates along Mount Inari near JR Inari Station?",
+    "expected": "Fushimi Inari Taisha Shrine"
+  }
+]
